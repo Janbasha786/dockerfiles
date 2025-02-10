@@ -1,4 +1,3 @@
-hi
 FROM ubuntu
 MAINTAINER janbasha
 RUN apt-get update
